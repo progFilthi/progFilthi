@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @progFilthi</h1>
+<h1 align="center">👋 Hi, I’m Emmanuel Francis</h1>
 
 ### 🌱 Wanna Know Me? Here you go!
 - 👀 A hardworking dev, live, breathe & love Coding & Programming!
