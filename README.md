@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I am a proud **South Sudanese**
 
 ### 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,expressjs,java,spring,go,docker,k8s,aws,postgres,mongodb,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,expressjs,java,spring,go,docker,k8s,aws,prisma,postgres,mongodb,vscode)](https://skillicons.dev)
 
 ### 📈 GitHub Stats
 <p align="center">
