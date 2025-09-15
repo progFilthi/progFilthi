@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Emmanuel Francis</h1>
 
-### 🌱 Wanna Know Me? Here you go!
+### 🌱 Wanna Know Me? Let's just say ...
 - 👀 A hardworking dev, live, breathe & love Coding & Programming!
 - 🌱 A Full Stack dev, but I love backend, I don't mind doing Frontend as well!
 - 📫 How to reach me: <a href="mailto:gamerfilthi@gmail.com">gamerfilthi@gmail.com</a>
