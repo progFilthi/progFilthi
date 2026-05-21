@@ -29,11 +29,3 @@
 ### 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,bun,expressjs,java,spring,docker,k8s,aws,prisma,postgres,mongodb,vscode)](https://skillicons.dev)
-
----
-
-### 📊 By The Numbers
-
-| 🗂️ 6+ repos shipping real features | ☕ Java is my top language by commit volume |
-|---|---|
-| ✅ 100% commits with a real message — no *"fix stuff"* | 🔥 TypeScript close second to Java
