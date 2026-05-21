@@ -1,41 +1,56 @@
-**Backend-first, full-stack curious. 🇸🇸**
+<h1 align="center">👋 Hey, I'm Emmanuel Francis</h1>
 
-*I write code that scales, APIs that don't break at 3am,*
-*and occasionally dabble in frontend when nobody's watching.*
+<p align="center">
+  <em>Backend-first. Full-stack curious. South Sudanese & proud. 🇸🇸</em><br/>
+  <sub>I write code that scales, APIs that don't break at 3am, and occasionally dabble in frontend when nobody's watching.</sub>
+</p>
 
-24 · Open to remote or relocation · South Sudan proud · [gamerfilthi@gmail.com](mailto:gamerfilthi@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20hire-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Age-24-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Remote%20%7C%20Relocation-ready-lightgrey?style=flat-square" />
+</p>
 
 ---
 
-### `// by the numbers`
+### 🌱 Wanna Know Me?
 
-| | |
+- 👀 A hardworking dev — live, breathe & love coding & programming
+- 💻 Full-stack dev at heart, but backend is home. Frontend? Sure, why not
+- 🚀 Currently building **FilthiLink** — subscriptions, payments, the real deal
+- 📫 Reach me: [gamerfilthi@gmail.com](mailto:gamerfilthi@gmail.com)
+- 🌍 Proud **South Sudanese** · doesn't mind relocating or working remote
+- ⚡ Fun fact: ∞ tabs open while debugging — docs, Stack Overflow & vibes
+
+---
+
+### 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,bun,expressjs,java,spring,docker,k8s,aws,prisma,postgres,mongodb,vscode)](https://skillicons.dev)
+
+---
+
+### 📊 By The Numbers
+
+| 🗂️ 6+ repos shipping real features | ☕ Java is my top language by commit volume |
 |---|---|
-| **6+ repos** shipping real features — not just tutorial clones | **Java** is my most-committed language, TypeScript close second |
-| **100%** of commits have a real message — no *"fix stuff"* here | **∞** tabs open while debugging — docs, SO, and vibes |
+| ✅ 100% commits with a real message — no *"fix stuff"* | 🔥 TypeScript close second to Java |
 
 ---
 
-### `// stack i actually use`
+### 📈 GitHub Stats
 
-[![Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,nextjs,ts,react,tailwind,prisma)](https://skillicons.dev)
-
----
-
-### `// the human behind the commits`
-
-- 🔧 Backend dev who won't say no to a solid UI challenge
-- 🌍 South Sudan → anywhere there's good WiFi and good problems  
-- 🚀 Currently building **FilthiLink** — subscriptions, payments, the whole stack
-- 📬 Always reply within 24h · open to collabs, roles & interesting convos
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=progFilthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=contribs)](https://github.com/progFilthi)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=progFilthi&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/progFilthi)
-
-</div>
+<p align="center">
+  <img
+    height="150em"
+    src="https://github-readme-stats-fast.vercel.app/api?username=progFilthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
+    alt="progFilthi GitHub stats"
+  />
+  <img
+    height="150em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=progFilthi&layout=compact&hide_border=true&theme=tokyonight"
+    alt="progFilthi top languages"
+  />
+</p>
