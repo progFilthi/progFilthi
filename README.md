@@ -1,37 +1,41 @@
-<h1 align="center">👋 Hi, I’m Emmanuel Francis</h1>
+**Backend-first, full-stack curious. 🇸🇸**
+
+*I write code that scales, APIs that don't break at 3am,*
+*and occasionally dabble in frontend when nobody's watching.*
+
+24 · Open to remote or relocation · South Sudan proud · [gamerfilthi@gmail.com](mailto:gamerfilthi@gmail.com)
+
+</div>
 
 ---
 
-### 🌱 Wanna Know Me? Let's just say ...
+### `// by the numbers`
 
-- 👀 A hardworking dev, live, breathe & love Coding & Programming!
-- 🌱 A Full Stack dev, but I love backend, I don't mind doing Frontend as well!
-- 📫 How to reach me: <a href="mailto:gamerfilthi@gmail.com">gamerfilthi@gmail.com</a>
-- 👀 I am 24 years old if you're wondering & don't mind relocating or working remote
-- ⚡ Fun fact: I am a proud <strong>South Sudanese</strong>
-
----
-
-### 💻 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,bun,expressjs,java,spring,docker,k8s,aws,prisma,postgres,mongodb,vscode)](https://skillicons.dev)
+| | |
+|---|---|
+| **6+ repos** shipping real features — not just tutorial clones | **Java** is my most-committed language, TypeScript close second |
+| **100%** of commits have a real message — no *"fix stuff"* here | **∞** tabs open while debugging — docs, SO, and vibes |
 
 ---
 
-### 📈 GitHub Stats
+### `// stack i actually use`
 
-<p align="center">
-  <!-- Main stats -->
-  <img
-    height="150em"
-    src="https://github-readme-stats-fast.vercel.app/api?username=progFilthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
-    alt="progFilthi GitHub stats"
-  />
+[![Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,aws,nextjs,ts,react,tailwind,prisma)](https://skillicons.dev)
 
-  <!-- Top languages -->
-  <img
-    height="150em"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=progFilthi&layout=compact&hide_border=true&theme=tokyonight"
-    alt="progFilthi top languages"
-  />
-</p>
+---
+
+### `// the human behind the commits`
+
+- 🔧 Backend dev who won't say no to a solid UI challenge
+- 🌍 South Sudan → anywhere there's good WiFi and good problems  
+- 🚀 Currently building **FilthiLink** — subscriptions, payments, the whole stack
+- 📬 Always reply within 24h · open to collabs, roles & interesting convos
+
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=progFilthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=contribs)](https://github.com/progFilthi)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=progFilthi&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/progFilthi)
+
+</div>
