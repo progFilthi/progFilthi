@@ -39,18 +39,3 @@
 | ✅ 100% commits with a real message — no *"fix stuff"* | 🔥 TypeScript close second to Java |
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img
-    height="150em"
-    src="https://github-readme-stats-fast.vercel.app/api?username=progFilthi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
-    alt="progFilthi GitHub stats"
-  />
-  <img
-    height="150em"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=progFilthi&layout=compact&hide_border=true&theme=tokyonight"
-    alt="progFilthi top languages"
-  />
-</p>
