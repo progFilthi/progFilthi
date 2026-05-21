@@ -17,12 +17,11 @@
 
 ### 🌱 Wanna Know Me?
 
-- 👀 A hardworking dev — live, breathe & love coding & programming
+- 👀 A hardworking dev live, breathe & love coding & programming
 - 💻 Full-stack dev at heart, but backend is home. Frontend? Sure, why not
-- 🚀 Currently building **FilthiLink** — subscriptions, payments, the real deal
+- 🚀 Currently building **FilthiLink** subscriptions, payments, the real deal
 - 📫 Reach me: [gamerfilthi@gmail.com](mailto:gamerfilthi@gmail.com)
 - 🌍 Proud **South Sudanese** · doesn't mind relocating or working remote
-- ⚡ Fun fact: ∞ tabs open while debugging — docs, Stack Overflow & vibes
 
 ---
 
