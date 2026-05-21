@@ -36,6 +36,4 @@
 
 | 🗂️ 6+ repos shipping real features | ☕ Java is my top language by commit volume |
 |---|---|
-| ✅ 100% commits with a real message — no *"fix stuff"* | 🔥 TypeScript close second to Java |
-
----
+| ✅ 100% commits with a real message — no *"fix stuff"* | 🔥 TypeScript close second to Java
