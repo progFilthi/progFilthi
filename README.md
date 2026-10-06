@@ -20,7 +20,7 @@
 - 👀 A hardworking dev live, breathe & love coding & programming
 - 💻 Full-stack dev at heart, but backend is home. Frontend? Sure, why not
 - 🚀 Currently building **FilthiLink** subscriptions, payments, the real deal
-- 📫 Reach me: [gamerfilthi@gmail.com](mailto:gamerfilthi@gmail.com)
+- 📫 Reach me: [gamerfilthi@gmail.com](mailto:emmanuel.f0927@gmail.com)
 - 🌍 Proud **South Sudanese** · doesn't mind relocating or working remote
 
 ---
